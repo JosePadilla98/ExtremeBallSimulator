@@ -1,0 +1,4 @@
+
+Autor: José Padilla Campos
+
+Los nombres de las escenas están numerados según su colocación en la build.

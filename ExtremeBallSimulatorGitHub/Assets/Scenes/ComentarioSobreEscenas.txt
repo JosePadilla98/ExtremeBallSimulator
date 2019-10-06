@@ -1,0 +1,4 @@
+
+Por alguna razón que desconozco los gameObjects del 4_LVL2MixedLight con la casilla de "lightmap static" marcada no se visualizan, 
+no obstante sí lo hacen en runtime, una vez el juego ha iniciado. Dicha escena se encuentra en la carpeta de NotUsedScenes. 
+La escena 4_LVL2MixedLight debería tener mejor rendimiento que la escena 4_LVL2, está en la carpeta NotUsedScenes por el problema antes descrito.

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c75a3025b171a374cb91077518004601
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: D-DIN Condensed
+  fontNames:
+  - D-DIN Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 98ef98e1ac852bb4f8710a73e732b906, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
